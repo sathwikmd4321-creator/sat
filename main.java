@@ -7,7 +7,7 @@ public class main {
         for (int i = 0; i <= arr.length - 1; i++) {
             sum = sum + arr[i];
         }
-        System.out.print(sum);
+        System.out.print(sum + 1);
 
     }
 }
